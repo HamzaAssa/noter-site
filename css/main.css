@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  background-color: #121212;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.sec-navbar-text {
+  font-size: 14px;
+  /* background-color: #1b1b1b; */
+}
+.faqIndicatorIcon {
+  background-color: white;
+  color: rgb(32, 68, 68);
+  font-size: 24px;
+}
+
+.faq-btn-expand {
+  width: 25px;
+  height: 25px;
+}
+
+.faq-btn-expand:hover {
+  background-color: #41414196;
+}
+
+.text-white-75 {
+  color: #cecece;
+}
+
+.hover-primary:hover {
+  background-color: #0d6efd;
+}
+
+.margin-50 {
+  margin-top: 100px !important;
+}
+
+.footer-hover:hover {
+  color: #8efff6 !important;
+}
